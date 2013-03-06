@@ -18,3 +18,6 @@ donny_broe: http://git-scm.com/book
 
 // tutorial ruby
 http://www.tutorialspoint.com/ruby/ruby_classes.htm
+
+// git reset 
+http://git-scm.com/2011/07/11/reset.html
