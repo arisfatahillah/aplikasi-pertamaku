@@ -15,3 +15,6 @@ http://try.github.com/levels/1/challenges/1
 donny_broe: http://www.youtube.com/watch?v=WUdDdiu8kBs
 donny_broe: http://git-scm.com/documentation
 donny_broe: http://git-scm.com/book
+
+// tutorial ruby
+http://www.tutorialspoint.com/ruby/ruby_classes.htm
