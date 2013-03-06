@@ -9,3 +9,9 @@ http://www.webappers.com/2011/06/08/admin-style-interfaces-for-ruby-on-rails/
 http://ruby-on-rails.wonderhowto.com/how-to/add-basic-crud-ruby-rails-3-application-405786/
 http://www.developer.com/db/article.php/10920_3656831_2/Skip-the-CRUD-Building-a-Simple-Database-Backed-Web-Application-Using-Ruby-on-Rails.htm
 http://activescaffold.com/
+
+
+http://try.github.com/levels/1/challenges/1
+donny_broe: http://www.youtube.com/watch?v=WUdDdiu8kBs
+donny_broe: http://git-scm.com/documentation
+donny_broe: http://git-scm.com/book
